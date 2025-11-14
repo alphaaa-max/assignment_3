@@ -23,12 +23,20 @@ install.packages("data.table")
 install.packages("ggplot2")  # for visualization
 ```
 
-## Usage
-1. Ensure all Sakila data files are in the `data/` folder
-2. Run the main analysis script:
+## Quick Start
+1. Install required packages:
+```R
+source("scripts/install_requirements.R")
+```
+
+2. Run the main analysis:
 ```R
 source("scripts/sakila_analysis.R")
 ```
+
+3. Check results:
+   - Query outputs: `output/*.csv`
+   - Visualizations: `plots/*.png`
 
 ## Queries Implemented
 1. Films with PG rating and rental duration > 5 days
@@ -39,5 +47,8 @@ source("scripts/sakila_analysis.R")
 6. Films that have not been rented
 7. Data visualization
 
-## Author
-Assignment 3 - Sakila SQL to R Conversion
+## Documentation
+See `ASSIGNMENT_GUIDE.md` for detailed implementation notes and technical details.
+
+## Results
+All query results are automatically saved to the `output/` directory as CSV files. Visualizations are saved to the `plots/` directory as high-resolution PNG images.
