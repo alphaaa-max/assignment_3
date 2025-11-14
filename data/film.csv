@@ -1,0 +1,51 @@
+film_id,title,description,release_year,language_id,rental_duration,rental_rate,rating
+1,ACADEMY DINOSAUR,A Epic Drama of a Feminist And a Mad Scientist,2006,1,6,0.99,PG
+2,ACE GOLDFINGER,A Astounding Epistle of a Database Administrator,2006,1,3,4.99,G
+3,ADAPTATION HOLES,A Astounding Reflection of a Lumberjack,2006,1,7,2.99,NC-17
+4,AFFAIR PREJUDICE,A Fanciful Documentary of a Frisbee,2006,1,5,2.99,G
+5,AFRICAN EGG,A Fast-Paced Documentary of a Pastry Chef,2006,1,6,2.99,G
+6,AGENT TRUMAN,A Intrepid Panorama of a Robot And a Boy,2006,1,3,2.99,PG
+7,AIRPLANE SIERRA,A Touching Saga of a Hunter And a Butler,2006,1,6,4.99,PG-13
+8,AIRPORT POLLOCK,A Epic Tale of a Moose And a Girl,2006,1,6,4.99,R
+9,ALABAMA DEVIL,A Thoughtful Panorama of a Database Administrator,2006,1,3,2.99,PG-13
+10,ALADDIN CALENDAR,A Action-Packed Tale of a Man And a Lamp,2006,1,6,4.99,NC-17
+11,ALAMO VIDEOTAPE,A Boring Epistle of a Butler And a Cat,2006,1,6,0.99,G
+12,ALASKA PHANTOM,A Fanciful Saga of a Hunter And a Pastry Chef,2006,1,6,0.99,PG
+13,ALI FOREVER,A Action-Packed Drama of a Dentist And a Crocodile,2006,1,4,4.99,PG
+14,ALICE FANTASIA,A Emotional Drama of a A Shark And a Database,2006,1,6,0.99,NC-17
+15,ALIEN CENTER,A Brilliant Drama of a Cat And a Mad Scientist,2006,1,5,2.99,NC-17
+16,ALLEY EVOLUTION,A Fast-Paced Drama of a Car And a Composer,2006,1,6,2.99,NC-17
+17,ALONE TRIP,A Astounding Character Study of a Dog,2006,1,3,0.99,R
+18,ALTER VICTORY,A Thoughtful Drama of a Composer And a Feminist,2006,1,6,0.99,PG-13
+19,AMADEUS HOLY,A Emotional Display of a Pioneer And a Technical,2006,1,6,0.99,PG
+20,AMELIE HELLFIGHTERS,A Boring Drama of a Woman And a Squirrel,2006,2,4,4.99,R
+21,AMERICAN CIRCUS,A Insightful Drama of a Teacher And a Girl,2006,1,6,2.99,R
+22,AMISTAD MIDSUMMER,A Emotional Character Study of a Dentist,2006,1,6,2.99,G
+23,ANACONDA CONFESSIONS,A Lacklusture Display of a Dentist And a Dentist,2006,1,3,0.99,R
+24,ANALYZE HOOSIERS,A Thoughtful Display of a Explorer And a Pastry,2006,1,6,2.99,R
+25,ANGELS LIFE,A Thoughtful Display of a Woman And a Astronaut,2006,1,3,2.99,G
+26,ANNIE IDENTITY,A Amazing Panorama of a Pastry Chef And a Boat,2006,3,3,0.99,G
+27,ANONYMOUS HUMAN,A Amazing Reflection of a Database Administrator,2006,1,7,0.99,NC-17
+28,ANTHEM LUKE,A Touching Panorama of a Waitress And a Woman,2006,1,5,4.99,PG-13
+29,ANTITRUST TOMATOES,A Fateful Yarn of a Womanizer And a Feminist,2006,1,5,2.99,NC-17
+30,ANYTHING SAVANNAH,A Epic Story of a Pastry Chef And a Woman,2006,1,4,2.99,R
+31,APACHE DIVINE,A Awe-Inspiring Reflection of a Pastry Chef,2006,2,5,4.99,NC-17
+32,APOCALYPSE FLAMINGOS,A Astounding Story of a Dog And a Squirrel,2006,1,6,4.99,R
+33,APOLLO TEEN,A Action-Packed Reflection of a Crocodile,2006,1,5,2.99,PG-13
+34,ARABIA DOGMA,A Touching Epistle of a Madman And a Mad Cow,2006,1,6,0.99,NC-17
+35,ARACHNOPHOBIA ROLLERCOASTER,A Action-Packed Reflection of a Pastry,2006,1,4,2.99,PG-13
+36,ARGONAUTS TOWN,A Emotional Epistle of a Forensic Psychologist,2006,1,4,0.99,PG-13
+37,ARIZONA BANG,A Brilliant Panorama of a Mad Scientist,2006,1,3,2.99,PG
+38,ARK RIDGEMONT,A Beautiful Yarn of a Pioneer And a Monkey,2006,1,6,0.99,NC-17
+39,ARMAGEDDON LOST,A Fast-Paced Tale of a Boat And a Teacher,2006,1,5,0.99,G
+40,ARMY FLINTSTONES,A Boring Saga of a Database Administrator,2006,1,4,0.99,G
+41,ARSENIC INDEPENDENCE,A Fanciful Documentary of a Mad Cow,2006,1,4,0.99,PG
+42,ARTIST COLDBLOODED,A Stunning Reflection of a Robot And a Moose,2006,1,5,2.99,NC-17
+43,ATLANTIS CAUSE,A Thrilling Yarn of a Feminist And a Hunter,2006,2,6,2.99,G
+44,ATTACKS HATE,A Fast-Paced Panorama of a Technical Writer,2006,1,5,4.99,PG-13
+45,ATTRACTION NEWTON,A Astounding Panorama of a Composer,2006,1,5,4.99,PG-13
+46,AUTUMN CROW,A Beautiful Tale of a Dentist And a Mad Cow,2006,1,3,4.99,G
+47,BABY HALL,A Boring Character Study of a A Shark And a Girl,2006,1,5,4.99,NC-17
+48,BACKLASH UNDEFEATED,A Stunning Character Study of a Mad Scientist,2006,1,3,4.99,PG-13
+49,BADMAN DAWN,A Emotional Panorama of a Pioneer And a Composer,2006,1,6,2.99,R
+50,BAKED CLEOPATRA,A Stunning Drama of a Forensic Psychologist,2006,1,3,2.99,G
